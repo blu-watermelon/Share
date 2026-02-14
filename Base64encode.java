@@ -1,4 +1,4 @@
-package test;
+
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -44,5 +44,3 @@ public class Base64encode {
             System.out.println("Error reading file: " + e.getMessage());
         }
     }
-
-}
