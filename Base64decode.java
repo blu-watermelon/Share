@@ -1,4 +1,4 @@
-package test;
+
 
 import java.io.FileOutputStream;
 import java.util.Base64;
@@ -26,3 +26,4 @@ public class Base64decode {
         decodeBase64ToFile(args[0], args[1]);
     }
 }
+
